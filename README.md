@@ -3,6 +3,10 @@
 
 For pcb's and panels: https://pushermanproductions.com/product/plum-audio-1u-temps-utile-pcb-and-aluminium-panel-30hp/
 
+Teensy Assembling (with Suervisor):https://youtu.be/IDsQhNgkL-Y
+
+OLED Screen Assembling: https://youtu.be/ywh_6SPNrSg 
+
 ** Note for Pusherman v1.0 Pcb's - There is minor silk screen mistake - The Inputs and Outputs not numberd correctly.
 ![Alt text](1uT_u.jpg?raw=true "1uT_u")
 
